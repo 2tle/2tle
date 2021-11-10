@@ -26,7 +26,8 @@
   
 <details>
   <summary>Stats</summary>
-  [![양현주's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
-  [![양현주's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
+  [![2tle's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/anuraghazra/github-readme-stats)  
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
