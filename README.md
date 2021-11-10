@@ -26,8 +26,8 @@
   
 <details>
   <summary>Stats</summary>
-  [![2tle's Github stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&hide_border=true)](https://github.com/2tle)
-    
+  [![2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/2tle)
+  <br/>  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/2tle)
 </details>
 
