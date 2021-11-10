@@ -9,7 +9,7 @@
 
 #### Web
 + HTML, CSS, JS
-+ Node.js, Express
++ PHP, Node.js, Express
 + MongoDB, MySQL
 
 #### App
