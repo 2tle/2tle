@@ -1,2 +1,32 @@
 ### I am just a highschool student developing back-end and native apps.
-[![2tle's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
+---
+  
+  
+  
+<details>
+<summary>Stack</summary>
+
+#### Web
++ HTML, CSS, JS
++ Node.js, Express
++ MongoDB, MySQL
+
+#### App
++ Kotlin
++ Android Studio
+
+#### Etc
++ C
++ Python
++ Linux(Ubuntu, CentOS)
+
+</details>
+  
+  
+  
+<details>
+  <summary>Stats</summary>
+  [![양현주's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
+  [![양현주's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
