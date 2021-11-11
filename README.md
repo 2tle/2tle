@@ -14,6 +14,7 @@
 
 #### App
 + Kotlin
++ Java
 + Android Studio
 
 #### Etc
