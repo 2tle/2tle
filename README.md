@@ -1,5 +1,5 @@
 ### I am a high-school student studying and developing back-end and native app.
-##### ~~And my real name is Hyunjun Yang, not Hyunju...~~  
+##### And my real name is Hyunju Yang, not Hyunjun... 
 ---
   
 <details>
