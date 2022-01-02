@@ -7,7 +7,7 @@
 
 #### Web
 + HTML, CSS, JS
-+ PHP, Node.js, Express, Socket.io
++ PHP, Node.js, Express.js, Socket.io
 + MongoDB, MySQL
 
 #### App
@@ -18,6 +18,7 @@
 #### Etc
 + C
 + Python
++ C#
 + Linux(Ubuntu, CentOS)
 
 </details>
