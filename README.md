@@ -36,7 +36,7 @@
 </details>
   
   
-  [devLog by 현주(Blog)](https://velog.io/@hyunju)
+  [devLog by 현주(blog)](https://velog.io/@hyunju)
   
   
 
