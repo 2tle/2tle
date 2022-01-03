@@ -1,5 +1,5 @@
 ### I am a high-school student studying and developing back-end and native app.
-##### ~~And my real name is Hyunjun Yang, not Hyunju...~~  
+##### ~~And my real name is Hyunjun Yang, not Hyunju Yang...~~  
 ---
   
 <details>
@@ -17,8 +17,8 @@
 
 #### Etc
 + C
-+ Python
 + C#
++ Python
 + Linux(Ubuntu, CentOS)
 
 </details>
