@@ -6,11 +6,8 @@
 <summary>Stack</summary>
 
 #### Web
-<<<<<<< HEAD
 + HTML, CSS, JavaScript
-=======
 + HTML, CSS, JS
->>>>>>> 540275aee5e37821fd199e7da699b9cdcb55219c
 + PHP, Node.js, Express.js, Socket.io
 + MongoDB, MySQL
 
