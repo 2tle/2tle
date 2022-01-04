@@ -17,10 +17,8 @@
 + Android Studio
 
 #### Etc
-+ C
-+ C#
++ 
 + Python
-+ C#, Unity
 + Linux(Ubuntu, CentOS)
 
 </details>
