@@ -1,4 +1,4 @@
-### I am a highschool student studying and developing back-end and native app.
+### I am a high-school student studying and developing back-end and native app.
 ##### ~~And my real name is Hyunjun Yang, not Hyunju Yang...~~  
 ---
   
@@ -17,7 +17,7 @@
 + Android Studio
 
 #### Etc
-+ 
++ C
 + Python
 + Linux(Ubuntu, CentOS)
 
