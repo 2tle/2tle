@@ -6,7 +6,6 @@
 <summary>Stack</summary>
 
 #### Web
-+ HTML, CSS, JavaScript
 + HTML, CSS, JS
 + PHP, Node.js, Express.js, Socket.io
 + MongoDB, MySQL
