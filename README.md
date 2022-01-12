@@ -42,8 +42,10 @@
   
   
 <details>
+  
   <summary>Stats</summary> 
    
+  
   [![2tle's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/2tle)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/2tle)
