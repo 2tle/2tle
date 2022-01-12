@@ -36,7 +36,7 @@
 </details>
   
 <details>
-<summary>Awards & Activity</summary> 
+
 #### Awards
 + 2017-06-01 | 송림초등학교 2017 과학의날 행사 프로그래밍 부문 우수상
 + 2021-07-15 | 선린인터넷고등학교 2021 프로그래밍 경시대회 동상
