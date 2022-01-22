@@ -1,4 +1,6 @@
 ### I'm a high-school student studying and developing back-end and native app.
+I am studying TypeScript because I have to make [Sunrin Intranet](https://github.com/withsunrin)
+
 ##### ~~And my real name is Hyunjun Yang, not Hyunju....~~  
 ---
   
@@ -37,6 +39,13 @@
   
   [![ytieelte](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytieelte)](https://solved.ac/profile/ytieelte)
   
+</details>
+
+
+<details>
+  <summary>Contact</summary>
+  + Phone : +82 10 8390 0511
+  + Email : iam@2tle.io
 </details>
   
   [devLog by 현주](https://velog.io/@hyunju)
