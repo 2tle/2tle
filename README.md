@@ -45,7 +45,7 @@ I am studying TypeScript because I have to make [Sunrin Intranet](https://github
 <details>
   <summary>Contact</summary>
   
-     Phone: 82 10 8390 0511<br>
+     Phone: 82 10 8390 0511
      Email: iam@2tle.io
   
 </details>
