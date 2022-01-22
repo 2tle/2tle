@@ -44,10 +44,9 @@ I am studying TypeScript because I have to make [Sunrin Intranet](https://github
 
 <details>
   <summary>Contact</summary>
-    #### Contact To HyunJu
   
-     + Phone: 82 10 8390 0511
-     + Email: iam@2tle.io
+     Phone: 82 10 8390 0511<br>
+     Email: iam@2tle.io
   
 </details>
   
