@@ -8,7 +8,7 @@ I am studying TypeScript because I have to make [Sunrin Intranet](https://github
 <summary>Stack</summary>
 
 #### Web
-+ HTML, CSS, JS
++ JavaScript, TypeScript
 + PHP, Node.js, Express.js, Socket.io
 + MongoDB, MySQL
 
