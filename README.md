@@ -1,5 +1,5 @@
 ### I'm a high-school student studying and developing back-end and native app.
-I am studying TypeScript because I have to make [Sunrin Intranet](https://github.com/sunrinlifeteam)
+I am studying TypeScript because I am making [Sunrin Intranet](https://github.com/sunrinlifeteam)
 
 ##### ~~And my real name is Hyunjun Yang, not Hyunju....~~  
 ---
