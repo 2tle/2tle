@@ -18,6 +18,9 @@
 <h3 align="center">🛠 Stats 🛠</h3>
 <div align="center" style="text-align:center">
     
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs)](https://github.com/2tle)
+    
 </div>
 
 <h3 align="center">📮 Contact ✉️</h3>
