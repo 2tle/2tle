@@ -16,9 +16,8 @@
 <p align="center"></p>
 
 <h3 align="center">🛠 Stats 🛠</h3>
-<div align="center" style="text-align:center">
-![2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)
-</div>
+[2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)
+
 
 <h3 align="center">📮 Contact ✉️</h3>
 <div align="center" style="text-align:center">
