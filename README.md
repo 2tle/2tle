@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
 
 <h3 align="center">✋ Welcome!</h3>
-<h4 align="center">Hyunjun Yang</h4>
-<h5 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
+<h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -27,6 +26,6 @@
 <div align="center" style="text-align:center">
     <a href="https://www.instagram.com/_string._.ju_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"></a>
     
-    <a href="mailto:iam@2tle.io"><img src="https://img.shields.io/badge/iam@2tle.io-30B980?style=for-the-badge&logo=Minutemailer&logoColor=black"></a>
+    <a href="mailto:iam@2tle.io"><img src="https://img.shields.io/badge/Minutemailer-30B980?style=for-the-badge&logo=Minutemailer&logoColor=black"></a>
 </div>
 
