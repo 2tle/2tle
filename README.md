@@ -15,7 +15,7 @@
 <p align="center">Used at least once</p>
 <p align="center"></p>
 
-<h3 align="center">🛠 Stats 🛠</h3>
+<h3 align="center">📈 Stats 📉</h3>
 
 <div align="center" style="text-align:center">
 
