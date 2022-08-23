@@ -1,62 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=2tle's%20github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
 
-### High-school student studying and developing back-end, native app and ML.
-I am studying ML now!
+<h3 align="center">✋ Welcome!</h3>
+<h4 align="center">Hyunjun Yang</h4>
+<h6 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 
-##### ~~And my real name is Hyunjun Yang, not Hyunju....~~  
----
-  
-<details>
-<summary>Stack</summary>
 
-#### Web
-+ JavaScript, TypeScript
-+ PHP, Node.js, Express.js, Socket.io
-+ MongoDB, MySQL
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">Used as the main</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">
+</p>
 
-#### App
-+ Kotlin
-+ Java
-+ Android Studio
+<p align="center">Used at least once</p>
+<p align="center"></p>
 
-#### Etc
-+ C
-+ Python
-+ Linux(Ubuntu, CentOS)
+<h3 align="center">🛠 Stats 🛠</h3>
+<div align="center" style="text-align:center">
+    ![2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)
+    [![2tle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-</details>
-  
-  
-  
-  
-  
-<details>
-  
-  <summary>Stats</summary> 
-   
-  
-  [![2tle's github stats](https://github-readme-stats.vercel.app/api?username=2tle)](https://github.com/2tle)
+<h3 align="center">📮 Contact ✉️>
+    <a href="https://www.instagram.com/_string._.ju_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"></a>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle)](https://github.com/2tle)
-  
-  [![ytieelte](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytieelte)](https://solved.ac/profile/ytieelte)
-  
-</details>
-
-
-
-
-<details>
-  <summary>Contact</summary>
- 
-   + Phone: 82 10 8390 0511
-   + Email: iam@2tle.io
-  
-</details>
-  
-  
-[devLog by 현주](https://velog.io/@hyunju)
-  
-  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2tle)](https://github.com/2tle)
+    <a href="mailto:iam@2tle.io"><img src="https://img.shields.io/badge/iam@2tle.io-30B980?style=for-the-badge&logo=Minutemailer&logoColor=black"></a>
+    
+</h3>
