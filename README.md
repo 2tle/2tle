@@ -2,7 +2,7 @@
 
 <h3 align="center">✋ Welcome!</h3>
 <h4 align="center">Hyunjun Yang</h4>
-<h6 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
+<h5 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -18,8 +18,8 @@
 
 <h3 align="center">🛠 Stats 🛠</h3>
 <div align="center" style="text-align:center">
-    [![2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)
-    [![2tle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+    [2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)
+    [2tle's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">📮 Contact ✉️</h3>
