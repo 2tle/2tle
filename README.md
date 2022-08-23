@@ -1,4 +1,4 @@
-### I'm a high-school student studying and developing back-end and native app.
+### High-school student studying and developing back-end, native app and ML.
 I am studying ML now!
 
 ##### ~~And my real name is Hyunjun Yang, not Hyunju....~~  
