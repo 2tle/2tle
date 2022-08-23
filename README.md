@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
-
-<h3 align="center">✋ Welcome!</h3>
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 
 
