@@ -2,6 +2,7 @@
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 <p align="center">
     Sunrin Internet High School Department of Software 116th, 2021.03 ~<br>
+    Survirun Android App & Backend Developer 2021.10~<br>
 </p>
 
 
