@@ -2,7 +2,7 @@
 <h3 align="center"> Profile </h3>
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 <p align="center">
-    <p>Sunrin Internet High School Department of Software 116th, 2021.03 ~</p>
+    Sunrin Internet High School Department of Software 116th, 2021.03 ~<br>
 </p>
 
 
