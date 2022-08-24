@@ -7,7 +7,7 @@
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">Currently learning</p>
+<p align="center">Currently learning stack</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center">Used as the main</p>
+<p align="center">Mainly used stack</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
