@@ -26,6 +26,11 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black">
 </p>
 
+<h3 align="center">🏆 Awards 🏆</h3>
+<p align="center">
+</p>
+
+
 <h3 align="center">📈 Stats 📉</h3>
 
 <div align="center" style="text-align:center">
