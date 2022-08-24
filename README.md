@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
-<h3 align="center"> Profile </h3>
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 <p align="center">
     Sunrin Internet High School Department of Software 116th, 2021.03 ~<br>
