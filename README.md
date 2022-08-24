@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
+<h3 align="center"> Profile </h3>
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
+<p align="center">
+</p>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -26,9 +29,6 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=black">
 </p>
 
-<h3 align="center">🏆 Awards 🏆</h3>
-<p align="center">
-</p>
 
 
 <h3 align="center">📈 Stats 📉</h3>
