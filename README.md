@@ -47,7 +47,7 @@
 [![2tle's GitHub stats](https://github-readme-stats.vercel.app/api?username=2tle&show_icons=true&title_color=FAACD4&text_color=FAACD4&icon_color=FAACD4&border_color=FAACD4&count_private=true)](https://github.com/2tle)
 
 
-![2tle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs)
+![2tle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2tle&layout=compact&hide=html,css,ejs,php)
 
 </div>
     
