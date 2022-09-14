@@ -53,7 +53,9 @@
     
 <h3 align="center">📮 Contact ✉️</h3>
 <div align="center" style="text-align:center">
-    <a href="https://www.instagram.com/_string._.ju_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"></a> <a href="mailto:iam@2tle.io"><img src="https://img.shields.io/badge/iam@2tle.io-30B980?style=for-the-badge&logo=Minutemailer&logoColor=black"></a>
+    <a href="https://www.instagram.com/_string._.ju_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"></a>
+    <a href="https://velog.io/@hyunju"><img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=Velog&logoColor=black"></a>
+    <a href="mailto:iam@2tle.io"><img src="https://img.shields.io/badge/iam@2tle.io-30B980?style=for-the-badge&logo=Minutemailer&logoColor=black"></a>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2tle&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/2tle)
