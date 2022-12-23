@@ -2,8 +2,9 @@
 <h4 align="center">I'm high school student studying and developing back-end, native app and ML.</h6>
 <p align="center">
     MIDAS IT Winter Vacation Internship, 2023.02.06 ~ 2023.02.24<br>
+    Survirun Backend Developer, 2022.12 ~ <br>
     Sunrin Internet High School Department of Software 116th, 2021.03 ~<br>
-    Survirun Android App & Backend Developer, 2021.10 ~<br>
+    Survirun Android App & Backend Developer, 2021.10 ~ 2022.12<br>
 </p>
 
 
