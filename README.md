@@ -10,13 +10,6 @@
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">Currently learning stack</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=black">
-</p>
-
 
 <p align="center">Mainly used stack</p>
 <p align="center">
@@ -31,6 +24,7 @@
 
 <p align="center">Available stack</p>
 <p align="center">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=black">
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=black">
