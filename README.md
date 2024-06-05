@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fad7d4&height=300&section=header&text=👨‍💻2tle's%20github&fontSize=80)
 <h3 align="center">I'm studying and developing back-end, native app and ML.</h6>
 <p align="center", >
-    <strong>Department of Software at Sungkyunkwan Univ., 2024.02 ~ </strong><br>
+    <strong>Department of Computer Science and Engineering at Sungkyunkwan Univ., 2024.02 ~ </strong><br>
     <strong>LogCat Backend Developer, 2022.12 ~</strong> <br>
     MIDAS IT Winter Vacation Internship, 2023.02.06 ~ 2023.02.24<br>
     Department of Software at Sunrin Internet High School, 2021.03.02 ~ 2024.02.29 <br>
